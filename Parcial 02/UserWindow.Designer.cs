@@ -58,6 +58,7 @@ namespace Parcial_02
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.button4 = new System.Windows.Forms.Button();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.button6 = new System.Windows.Forms.Button();
@@ -70,7 +71,6 @@ namespace Parcial_02
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.button5 = new System.Windows.Forms.Button();
-            this.textBox5 = new System.Windows.Forms.TextBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -372,6 +372,13 @@ namespace Parcial_02
             this.tabPage3.Text = "Historial de órdenes";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(8, 117);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(332, 23);
+            this.textBox5.TabIndex = 41;
+            // 
             // label15
             // 
             this.label15.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular,
@@ -509,13 +516,6 @@ namespace Parcial_02
             this.button5.Text = "Actualizar";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
-            // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(8, 117);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(332, 23);
-            this.textBox5.TabIndex = 41;
             // 
             // UserWindow
             // 

@@ -265,7 +265,6 @@ namespace Parcial_02
 
         private void button6_Click(object sender, EventArgs e)//Eliminar orden
         {
-        int idEliminar = Convert.ToInt32(textBox5.Text);   
         
         if (textBox5.Text.Equals(""))
         {
@@ -273,6 +272,7 @@ namespace Parcial_02
         }
         else
         {
+            int idEliminar = Convert.ToInt32(textBox5.Text);   
             try
             {
                 BaseDatos.ExecuteNonQuery($"DELETE FROM APPORDER WHERE idOrder = '{idEliminar}' ");
