@@ -1,0 +1,2 @@
+Despues de darle en aceptar se recarga la ventana
+y deja de mostrar el dato eliminado xd
