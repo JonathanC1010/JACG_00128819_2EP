@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jonathan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jonathan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial 02.-1328751330.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Jonathan\RiderProjects\Parcial 02" t="IncludeRecursive">
+      <e p="AdminWindow.cs" t="Include" />
+      <e p="AdminWindow.Designer.cs" t="Include" />
+      <e p="AdminWindow.resx" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="BaseDatos.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="NuevaOrden.cs" t="Include" />
+      <e p="NuevaOrden.Designer.cs" t="Include" />
+      <e p="NuevaOrden.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial 02.csproj" t="IncludeRecursive" />
+      <e p="Parcial 02.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Hugo.cs" t="Include" />
+        <e p="Hugo.Designer.cs" t="Include" />
+        <e p="Hugo.resx" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="UserWindow.cs" t="Include" />
+      <e p="UserWindow.Designer.cs" t="Include" />
+      <e p="UserWindow.resx" t="Include" />
+      <e p="UsuarioIn.cs" t="Include" />
+      <e p="UsuarioLogin.cs" t="Include" />
+      <e p="UsuarioLogin.Designer.cs" t="Include" />
+      <e p="UsuarioLogin.resx" t="Include" />
+      <e p="ViewPedidos.cs" t="Include" />
+      <e p="ViewPedidos.Designer.cs" t="Include" />
+      <e p="ViewPedidos.resx" t="Include" />
+    </e>
+  </component>
+</project>
