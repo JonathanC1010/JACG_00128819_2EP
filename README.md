@@ -1,2 +1,4 @@
 # JACG_00128819_2EP
- F
+ Subo tarde la recuperacion por que casi todo el dia pasé sin 
+ electricidad :c
+ 
